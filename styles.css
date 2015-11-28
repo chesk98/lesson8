@@ -14,3 +14,11 @@
   .box {
   	border-style: none;
   	width: 80%;
+  }
+
+@media screen  and (max-width: 400px) {
+	body {
+		background-color: red;
+		
+	}
+}  
